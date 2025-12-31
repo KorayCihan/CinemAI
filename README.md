@@ -2,9 +2,6 @@
 
 <div align="center">
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-10.0-purple?style=for-the-badge&logo=dotnet)
-![TMDB API](https://img.shields.io/badge/TMDB-API-01d277?style=for-the-badge&logo=themoviedatabase)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap)
 
 **Beğendiğiniz filmleri puanlayın, size özel film önerileri alın!**
 
@@ -108,15 +105,14 @@ Sistem, içerik tabanlı filtreleme kullanır:
 - **Tür Eşleşmesi**: Tercih ettiğiniz türlerden popüler filmler
 - **IMDB Weighted Rating**: Kalite puanı hesaplaması
 
-## 📸 Ekran Görüntüleri
 
-> Uygulamayı çalıştırıp ekran görüntüleri ekleyebilirsiniz
 
 ## 👥 Katkıda Bulunanlar
 
-- Proje Sahibi
+Koray Cihan 23118080043
+İbrahim Betbaşı 23118080058
 
-## 📄 Lisans
+
 
 Bu proje eğitim amaçlı geliştirilmiştir.
 
